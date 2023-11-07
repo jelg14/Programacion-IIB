@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProductosModelStoreContainer" CdmEntityContainer="ProductosEntities">
+    <EntitySetMapping Name="Categorias">
+      <EntityTypeMapping TypeName="ProductosModel.Categoria">
+        <MappingFragment StoreEntitySet="Categorias">
+          <ScalarProperty Name="IDcategoria" ColumnName="IDcategoria" />
+          <ScalarProperty Name="NombreCategoria" ColumnName="NombreCategoria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cortes">
+      <EntityTypeMapping TypeName="ProductosModel.Corte">
+        <MappingFragment StoreEntitySet="Cortes">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Corte1" ColumnName="Corte" />
+          <ScalarProperty Name="IDcategoria" ColumnName="IDcategoria" />
+          <ScalarProperty Name="EsPremium" ColumnName="EsPremium" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TipoPolloes">
+      <EntityTypeMapping TypeName="ProductosModel.TipoPollo">
+        <MappingFragment StoreEntitySet="TipoPollo">
+          <ScalarProperty Name="IDtipo" ColumnName="IDtipo" />
+          <ScalarProperty Name="TipoDePollo" ColumnName="TipoDePollo" />
+          <ScalarProperty Name="IDcategoria" ColumnName="IDcategoria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

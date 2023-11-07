@@ -1,0 +1,15 @@
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\bin\Debug\pre-examen.exe.config
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\bin\Debug\pre-examen.exe
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\bin\Debug\pre-examen.pdb
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\bin\Debug\EntityFramework.dll
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\bin\Debug\EntityFramework.xml
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\obj\Debug\pre-examen.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\obj\Debug\pre_examen.Form1.resources
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\obj\Debug\pre_examen.Properties.Resources.resources
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\obj\Debug\pre-examen.csproj.GenerateResource.cache
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\obj\Debug\pre-examen.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\obj\Debug\pre-examen.csproj.CopyComplete
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\obj\Debug\pre-examen.exe
+C:\Users\Public\Documents\José\Programacion\pre-examen\pre-examen\obj\Debug\pre-examen.pdb
